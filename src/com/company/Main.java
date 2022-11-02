@@ -152,6 +152,8 @@ public class Main {
                         }
                         PIFMap.put(s, maps);
                     }
+                    else
+                        System.out.println("Lexical error for the string " + s);
                 }
             }
             fr.close();
