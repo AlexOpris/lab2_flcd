@@ -1,0 +1,2 @@
+VAR i : INTEGER + WHILE == "asd"
+i <- 2 2 
